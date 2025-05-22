@@ -1,0 +1,5 @@
+audio/ 
+__pycache__
+uploads/  ## inputs and output folder,made by own
+.env  ## for secret groq api key
+app.log # auto generated file for error handling

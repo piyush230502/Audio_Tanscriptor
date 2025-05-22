@@ -1,0 +1,7 @@
+flask
+ipykernel
+python-dotenv
+groq
+streamlit
+watchdog
+werkzeug
